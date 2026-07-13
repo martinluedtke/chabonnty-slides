@@ -4,6 +4,8 @@
  - Jerson Caro: A Chabauty-Coleman bound for Surfaces [[PDF]](/caro.pdf)
  - Juanita Duque-Rosero: Local heights away from p for quadratic Chabauty [[PDF]](/DuqueRosero.pdf)
  - Enis Kaya: Computations with hyperelliptic Mumford Curves: Uniformization, p-adic integrals, p-adic heights [[PDF]](/kaya.pdf)
+ - Diana Mocanu: Local points on twists of $X(p)$ [[PDF]](/mocanu.pdf)
+ - Steffen Müller: Rational points on $X_{ns}^+(19)$ [[PDF]](/mueller.pdf)
  - Filip Najman: Twist-parametrized points on modular curves [[PDF]](najman.pdf)
  - Michael Stoll: Determining the rational points on a curve of genus 2 and Mordell-Weil rank 1 [[slides available here]](https://www.mathe2.uni-bayreuth.de/stoll/schrift.html#TalkNotes)
  - David Zureick-Brown: Mazur's Program B after Furio–Lombardo [[PDF]](/zureick-brown.pdf)
