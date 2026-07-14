@@ -2,6 +2,7 @@
  - Amnon Besser: Loal height functions in the Arakelov theoretic approach to Quadratic Chabauty [[Lecture 1]](/besser1.pdf) [[Lecture 2]](/besser2.pdf)
  - Abbey Bourdon: Rational Points on Entanglement Modular Curves [[PDF]](/bourdon.pdf)
  - Jerson Caro: A Chabauty-Coleman bound for Surfaces [[PDF]](/caro.pdf)
+ - Ishai Dan-Cohen: Towards coarse moduli of augmentations [[PDF]](/dan-cohen.pdf)
  - Juanita Duque-Rosero: Local heights away from p for quadratic Chabauty [[PDF]](/DuqueRosero.pdf)
  - Enis Kaya: Computations with hyperelliptic Mumford Curves: Uniformization, p-adic integrals, p-adic heights [[PDF]](/kaya.pdf)
  - Diana Mocanu: Local points on twists of $X(p)$ [[PDF]](/mocanu.pdf)
